@@ -31,9 +31,9 @@ export const StatusColorEnum = {
 
 export const SystemConst = {
   API_BASE: 'api',
-  SYSTEM_NAME: 'Jetlinks',
+  SYSTEM_NAME: '中鑫航物联通讯平台',
   LOGIN: 'LOGIN-STATUS',
-  DOC_URL: 'http://doc.jetlinks.cn',
+  DOC_URL: 'http://zxhig.com',
   BASE_CURD_MODAL_VISIBLE: 'BASE_CURD_MODAL_VISIBLE',
   BASE_CURD_CURRENT: 'BASE_CURD_CURRENT',
   BASE_CURD_MODEL: 'BASE_CURD_MODEL',

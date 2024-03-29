@@ -8,8 +8,6 @@
 
 ## 前端运行
 ```bash
-# 克隆项目
-git clone https://github.com/jetlinks/jetlinks-ui-vue.git
 
 # 安装依赖
 yarn

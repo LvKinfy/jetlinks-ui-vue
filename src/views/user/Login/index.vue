@@ -13,7 +13,7 @@
                         rel="noopener noreferrer"
                         class="records"
                     >
-                        备案：渝ICP备19017719号-1
+                        中鑫航（深圳）实业环境集团有限公司 版权所有 粤ICP备18034420号-1
                     </a>
                 </div>
                 <div class="right">
